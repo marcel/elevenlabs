@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/faiface/beep v1.1.0
-	github.com/taigrr/elevenlabs v0.0.6
+	github.com/marcel/elevenlabs v0.0.6
 )
 
 require (
