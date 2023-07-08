@@ -1,8 +1,11 @@
-module github.com/taigrr/elevenlabs
+module github.com/marcel/elevenlabs
 
 go 1.20
 
-require github.com/faiface/beep v1.1.0
+require (
+	github.com/faiface/beep v1.1.0
+	github.com/taigrr/elevenlabs v0.0.6
+)
 
 require (
 	github.com/hajimehoshi/go-mp3 v0.3.0 // indirect
